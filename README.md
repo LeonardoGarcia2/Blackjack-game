@@ -1,3 +1,3 @@
 # Blackjack-game
-One of my first projects
-to be added: visuals & animations
+One of my first projects.
+To be added: visuals & animations
